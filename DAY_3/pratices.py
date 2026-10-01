@@ -1,4 +1,4 @@
-#task-01
+'''#task-01
 username=input("Enter the username :")
 username1=username.strip()
 low_username=username1.lower()
@@ -41,3 +41,29 @@ print(f"country {country}")
 print(f"category {category}")
 print(f"year {Year}")
 print(f"serial {serial}")
+#task06
+name = "Pavithra"
+age = 21
+city = "Nellore"
+print(f"My name is {name}, I am {age} years old, and I live in {city}.")
+#task07
+product="phone"
+price=200
+quantity=4
+bill=price*4
+print(f"the cost of {quantity} {product} is {bill}")
+#task 08
+student_name = "Pavithra"
+total_marks = 425
+average = 85
+print(f"Student Name: {student_name}")
+print(f"Total Marks: {total_marks}")
+print(f"Average: {average}")
+#task09
+a = 20
+b = 10
+result = a + b
+print(f"The sum of {a} and {b} is {result}.")'''
+#task10
+price = 99.5
+print(f"The price is {price:.2f}")
