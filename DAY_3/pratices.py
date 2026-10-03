@@ -1,4 +1,4 @@
-'''#task-01
+
 username=input("Enter the username :")
 username1=username.strip()
 low_username=username1.lower()
@@ -63,7 +63,7 @@ print(f"Average: {average}")
 a = 20
 b = 10
 result = a + b
-print(f"The sum of {a} and {b} is {result}.")'''
+print(f"The sum of {a} and {b} is {result}.")
 #task10
 price = 99.5
 print(f"The price is {price:.2f}")
