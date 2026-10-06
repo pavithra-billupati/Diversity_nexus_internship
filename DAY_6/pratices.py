@@ -1,4 +1,4 @@
-'''#task01
+#task01
 def calculate_sum(*args):
     total=0
     for number in args:
@@ -134,7 +134,7 @@ print("the total sum :",result)
 def greeting(name="pavithra",city="nellore"):
     return f"Hello {name},wellcome to {city}"
 print(greeting("Venky"))
-print(greeting("Somu","Anamthasagram"))'''
+print(greeting("Somu","Anamthasagram"))
 #task18
 def minimum_num(*numbers):
     min_num=min(numbers)
